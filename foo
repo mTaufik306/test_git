@@ -2,4 +2,6 @@ this is a foo file
 2nd edit in branch
 3rd edit in master
 
-this foo file will function as a input parser
+this foo file will function as an input parser
+this file will be treated as user's intention generator
+this file will deduce what user want based on the input the application get
