@@ -4,3 +4,9 @@ this is a bar file
 
 this file is dedicated to support bot system that will be made
 this file has a modul that applies a function of the artificial intelligence
+
+the AI of the system must be like this:
+1. Say hello to user
+
+Hello message must be relative to time being. This means, morning, afternoon, and evening will generate different welcoming (hello) message. Let's call this feature 'Halo'
+
